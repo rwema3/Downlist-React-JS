@@ -27,7 +27,7 @@
 
 ----
 
-<h3 align="center"> & more </h3>
+<h3 align="center"> Developer: Bagirishya D. Rwema </h3>
 
 <br>
 

@@ -1,0 +1,14 @@
+@use "/Style/GlobalStyle/main" as m;
+
+.inner-root-container {
+  width: 100%;
+  min-height: 100vh;
+  overflow: hidden;
+  position: relative;
+  margin-top: -6em;
+}
+.container1 {
+  height: 108vh;
+  position: relative;
+  z-index: 1;
+}
